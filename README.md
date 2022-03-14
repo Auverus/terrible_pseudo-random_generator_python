@@ -1,4 +1,6 @@
 # terrible_pseudo-random_generator_python
+[![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode)
+
 a terrible pseudo random generator made in python, contains several features
 
 uses file to store seed and their history
